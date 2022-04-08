@@ -1,0 +1,130 @@
+:root{
+    --color-mates:  #ff2d00;
+    --color-caste: #b15eff  ;
+    --color-valen: #ff8000  ;
+    --color-ingles: #027016  ;
+    --color-fisica: #008cc1  ;
+    --color-bio: #e5ec0d  ;
+    --color-historia: #ec0db9  ;
+    --color-tecno: #870000  ;
+    --color-informatica: #00dfce  ;
+    --color-edfisica: #5d55cc  ;
+    --color-valores: #720043  ;
+    --color-tutoria:  #ffdcf0 ;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+}
+
+.mates{
+    background-color: var(--color-mates);
+    width: 50px;
+}
+
+.valen{
+    background-color: var(--color-caste);
+    width: 50px;
+}
+
+.caste{
+    background-color: var(--color-valen);
+    width: 50px;
+}
+
+.ingles{
+    background-color: var(--color-ingles);
+    width: 50px;
+}
+
+.fisica{
+    background-color: var(--color-fisica);
+    width: 50px;
+}
+
+.bio{
+    background-color: var(--color-bio);
+    width: 50px;
+}
+
+.historia{
+    background-color: var(--color-historia);
+    width: 50px;
+}
+
+.tecno{
+    background-color: var(--color-tecno);
+    width: 50px;
+}
+
+.informatica{
+    background-color: var(--color-informatica);
+    width: 50px;
+}
+
+.edfisica{
+    background-color: var(--color-edfisica);
+    width: 50px;
+}
+
+.valores{
+    background-color: var(--color-valores);
+    width: 50px;
+}
+
+.tutoria{
+    background-color: var(--color-tutoria);
+    width: 50px;
+}
+
+.patio{
+    background-color: wheat;
+    width: 50px;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+table{
+    margin: 30px auto;
+}
+
+.horario{
+    border: 5px solid black ;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.horario td, .horario th{
+    border: 5px solid black ;
+    padding: 5px;
+}
+
+#top{
+    background-color: slategrey;
+    padding: 12px;
+}
+
+.horario th{
+    background-color: dodgerblue;
+    padding: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
